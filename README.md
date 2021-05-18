@@ -41,13 +41,13 @@ São três locais de entrega, que tem o nome e a distância medida em minutos. A
   . nome: Ponto C <br/>
   . distância: 6 <br/>
   
-São três funcionários (entregadores), que tem nome, status, início e fim. <br/>
+2. São três funcionários (entregadores), que tem nome, status, início e fim. <br/>
 Os status dos funcionários são esperando ou entregando. <br/>
-  . esperando (o funcionário está esperando um pedido para entregar) esse é o status inicial dos três funcionário quando inicia o sistema. <br/>
-  . entregando (o funcionário pegou um pedido e está em rota de entrega). <br/>
+    . esperando (o funcionário está esperando um pedido para entregar) esse é o status inicial dos três funcionário quando inicia o sistema. <br/>
+    . entregando (o funcionário pegou um pedido e está em rota de entrega). <br/>
 Início e fim são os horários. Exemplo: 17:26:00 <br/>
-  . início é o horário que o funcinário pega o pedido para a entrega. <br/>
-  . fim é o horário de início mais a distância do local. <br/>
+    . início é o horário que o funcinário pega o pedido para a entrega. <br/>
+    . fim é o horário de início mais a distância do local. <br/>
   Exemplo: 17:26:00 + 4 minutos que é a distância do Ponto A, ou seja, às 17:30:00 o funcionário deve está de volta para pegar outra entrega.<br/>
   
 
