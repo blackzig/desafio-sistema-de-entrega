@@ -14,11 +14,7 @@ Desafio criado para outro desafio da DevChallenge - https://www.devchallenge.com
 * [Desafio](#desafio)
 * [Techs](#techs)
 * [Requisitos](#requisitos)
-* [Dicas](#dicas)
-  * [Cores](#cores)
-  * [Modelo](#modelo)
-  * [Imagens](#imagens)
-  * [Tipo de fonte](#tipo-de-fonte)
+* [Bônus](#bônus)
 * [Compartilhe](#compartilhe)
 
 # Devchallenge
@@ -52,11 +48,21 @@ Início e fim são os horários. Exemplo de horário: 17:26:00 <br/>
     Exemplo: 17:26:00 + 4 minutos que é a distância do Ponto A, ou seja, às 17:30:00 o funcionário deve está de volta para pegar outra entrega.<br/>
   
 3. Cada um minuto o sistema deve gerar um pedido aleatório entre os locais fixos. <br/>
-4. O sistema deve mostrar os status dos funcionários e das entregas. <br/>
-5. Quando todos os funcionários estiverem ocupados nas entregas, a mensagem: "Todos os funcionários estão fazendo entregas.", deve ser apresentada. <br/>
-6. Se todos os funcionários estão ocupados, os pedidos gerados devem ser armazenados em uma lista de espera, para quando um funcionário voltar da entrega ele pegue o pedido mais antigo. <br/>
+4. Quando todos os funcionários estiverem ocupados nas entregas, a mensagem: "Todos os funcionários estão fazendo entregas.", deve ser apresentada. <br/>
+5. Se todos os funcionários estão ocupados, os pedidos gerados devem ser armazenados em uma lista de espera, para quando um funcionário voltar da entrega ele pegue o pedido mais antigo. <br/>
+6. O sistema deve mostrar as informações das entregas e funcionários. <br/>
+Uma amostra de saída está no arquivo saida_exemplo.txt.<br/>
 
-Amostra de saída do sistema.
+# Bônus
+
+Aqui está uma funcionalidade adicional ao sistema. Tente implementá-la. <br/>
+
+1. Quando todos os funcionários estiverem em entrega e a lista de espera for maior que 3 pedidos, adicione um funcionário temporário para fazer as entregas.<br/>
+2. Quando não tiver mais nenhuma entrega na lista de espera, esse funcionário temporário deve ser removido.
+3. Esse processo também deve ser apresentado na tela
+
+
+
 
 
 
