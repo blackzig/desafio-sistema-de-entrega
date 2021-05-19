@@ -1,0 +1,108 @@
+Pedido Realizado >>> local: Ponto B distância: 5
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Esperando
+Nome: Funcionario B Status: Esperando
+Nome: Funcionario C Status: Esperando
+-------------------------------------------------------
+Funcionario: Funcionario A fará a entrega em: Ponto B que tem distância de: 5
+--------------------LISTA DE PEDIDO--------------------
+Quantidade de Pedidos em Espera >>> 0
+-------------------------------------------------------
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 4 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Esperando
+Nome: Funcionario C Status: Esperando
+-------------------------------------------------------
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 3 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Esperando
+Nome: Funcionario C Status: Esperando
+-------------------------------------------------------
+Pedido Realizado >>> local: Ponto B distância: 5
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 3 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Esperando
+Nome: Funcionario C Status: Esperando
+-------------------------------------------------------
+Funcionario: Funcionario B fará a entrega em: Ponto B que tem distância de: 5
+--------------------LISTA DE PEDIDO--------------------
+Quantidade de Pedidos em Espera >>> 0
+-------------------------------------------------------
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 3 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Entregando
+Falta 4 minutos para o Funcionario B voltar da entrega.
+Nome: Funcionario C Status: Esperando
+-------------------------------------------------------
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 2 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Entregando
+Falta 3 minutos para o Funcionario B voltar da entrega.
+Nome: Funcionario C Status: Esperando
+-------------------------------------------------------
+Pedido Realizado >>> local: Ponto C distância: 6
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 2 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Entregando
+Falta 3 minutos para o Funcionario B voltar da entrega.
+Nome: Funcionario C Status: Esperando
+-------------------------------------------------------
+Funcionario: Funcionario C fará a entrega em: Ponto C que tem distância de: 6
+--------------------LISTA DE PEDIDO--------------------
+Quantidade de Pedidos em Espera >>> 0
+-------------------------------------------------------
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 2 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Entregando
+Falta 3 minutos para o Funcionario B voltar da entrega.
+Nome: Funcionario C Status: Entregando
+Falta 6 minutos para o Funcionario C voltar da entrega.
+-------------------------------------------------------
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 1 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Entregando
+Falta 2 minutos para o Funcionario B voltar da entrega.
+Nome: Funcionario C Status: Entregando
+Falta 4 minutos para o Funcionario C voltar da entrega.
+-------------------------------------------------------
+Pedido Realizado >>> local: Ponto C distância: 6
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 1 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Entregando
+Falta 2 minutos para o Funcionario B voltar da entrega.
+Nome: Funcionario C Status: Entregando
+Falta 4 minutos para o Funcionario C voltar da entrega.
+-------------------------------------------------------
+Todos os funcionários estão fazendo entregas.
+--------------------LISTA DE PEDIDO--------------------
+Quantidade de Pedidos em Espera >>> 1
+Local: Ponto C Distância: 6
+-------------------------------------------------------
+--------------------LISTA DE FUNCIONÁRIO--------------------
+<<<<STATUS dos Funcionários>>>>
+Nome: Funcionario A Status: Entregando
+Falta 1 minutos para o Funcionario A voltar da entrega.
+Nome: Funcionario B Status: Entregando
+Falta 2 minutos para o Funcionario B voltar da entrega.
+Nome: Funcionario C Status: Entregando
+Falta 4 minutos para o Funcionario C voltar da entrega.
+-------------------------------------------------------
