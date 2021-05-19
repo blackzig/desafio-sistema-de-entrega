@@ -24,10 +24,10 @@ Desafio criado para outro desafio da DevChallenge - https://www.devchallenge.com
 O seu desafio é criar um sistema de entrega. Onde há três pontos fixos de entrega e três entregadores.
 Você terá que fazer o controle das entregas, porque cada local tem o seu tempo de entrega.
 
-# Techs: 
+# Techs
 Você pode utilizar qualquer tecnologia para fazer o desafio.
 
-# Requisitos: 
+# Requisitos
 São três locais de entrega, que tem o nome e a distância medida em minutos. A distância em minutos é a soma de ida e volta do entregador.
 1. Há três locais fixos de entrega com as seguintes características: <br/>
   . nome: Ponto A <br/>
