@@ -50,7 +50,7 @@ Início e fim são os horários. Exemplo de horário: 17:26:00 <br/>
 3. Cada um minuto o sistema deve gerar um pedido aleatório entre os locais fixos. <br/>
 4. Quando todos os funcionários estiverem ocupados nas entregas, a mensagem: "Todos os funcionários estão fazendo entregas.", deve ser apresentada. <br/>
 5. Se todos os funcionários estão ocupados, os pedidos gerados devem ser armazenados em uma lista de espera, para quando um funcionário voltar da entrega ele pegue o pedido mais antigo. <br/>
-6. O sistema deve mostrar as informações das entregas e funcionários. <br/>
+6. O sistema deve mostrar as informações das entregas e funcionários na tela. <br/>
 Uma amostra de saída está no arquivo saida_exemplo.txt.<br/>
 
 # Bônus
