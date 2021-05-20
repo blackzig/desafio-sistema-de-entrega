@@ -58,9 +58,15 @@ Uma amostra de saída está no arquivo saida_exemplo.txt.<br/>
 Aqui está uma funcionalidade adicional ao sistema. Tente implementá-la. <br/>
 
 1. Quando todos os funcionários estiverem em entrega e a lista de espera for maior que 3 pedidos, adicione um funcionário temporário para fazer as entregas.<br/>
-2. Quando não tiver mais nenhuma entrega na lista de espera, esse funcionário temporário deve ser removido.
-3. Esse processo também deve ser apresentado na tela
+2. Com as configurações atuais, mesmo adicionando mais um entregador a lista de entrega nunca irá terminar. <br/>
+3. Se quiser pode ir adicionando mais um funcionário até as entregas serem todas eliminadas ou haver um equilíbrio entre o número de funcionários e entregas. <br/>
+4. Quando começar a ter mais de um funcionário em espera, você pode mudar o status do funcionário para por exemplo dispensado. Dessa maneira, você deve remover esse funcionário da lista de funcionários.<br/>
 
+# Compartilhe!
+Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
+Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
+
+Criado por  <a href="https://github.com/blackzig">Michel</a> :)
 
 
 
